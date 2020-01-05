@@ -6,6 +6,6 @@
 ## 经典算法
 
 * [KMP](/classic/KMP.md)
-
-
+* [BM](classic/bm.md)
+* Horspool
 
