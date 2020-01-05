@@ -5,3 +5,7 @@
 
 ## 经典算法
 
+* [KMP](/classic/KMP.md)
+
+
+
